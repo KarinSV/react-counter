@@ -14,6 +14,11 @@ const plus = () => {
 
   return (
     <div className="App">
+      <header>
+        <h1>
+          Counter
+        </h1>
+      </header>
       <button onClick={minus}>Minus</button>
       {count}
       <button onClick={plus}>Plus</button>
