@@ -20,7 +20,7 @@ const plus = () => {
         </h1>
       </header>
       <button onClick={minus}>Minus</button>
-      {count}
+      <span className="count-number">{count}</span>
       <button onClick={plus}>Plus</button>
     </div>
   );
