@@ -1,10 +1,5 @@
 body{
     background: linear-gradient(90deg, orange 40%, cyan);
-    /* background: linear-gradient(
-        90deg,
-        rgb(170, 138, 234) 0%,
-        rgb(64, 19, 92) 100%
-      ); */
   }
 
 .App {
